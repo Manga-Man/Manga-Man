@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... pokemon
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... some projects
-- 📫 How to reach me ... OwO
+- 📫 How to reach me ... Via Discord
 
 <!---
 Manga-Man/Manga-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
