@@ -1,4 +1,7 @@
-# Chapter 201: What's Up?
+### Chapter 201: What's Up?
+"If I cared enough this guy wouldnt be standing alive..." <br><br>
+Discord: M4nga#4659
+
 
 
 <!---
