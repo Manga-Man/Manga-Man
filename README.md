@@ -1,5 +1,6 @@
 ### Chapter 201: What's Up?
-"If I cared enough this guy wouldnt be standing alive..." <br><br>
+"If I cared enough this guy wouldnt be standing alive..." <br>
+![Manga-man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manga-Man&show_icons=true&theme=github_dark) <br>
 Discord: M4nga#4659
 
 
